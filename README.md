@@ -32,7 +32,7 @@ The analysis aims to support data-driven decisions related to product strategy, 
 - Customer insights by age group and gender.
 - Identification of top-performing products and locations.
 
-📊 Dashboard Screenshot:
+📊 Dashboard 
 <img width="664" height="364" alt="Dashboard" src="https://github.com/user-attachments/assets/44454172-c427-467a-9dbb-43391aef2157" />
 
 
